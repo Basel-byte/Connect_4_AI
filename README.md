@@ -1,4 +1,4 @@
-# ***8-Puzzle-Game :space_invader:***
+# ***Connect-4 :space_invader:***
 
 - This project was generated with JAVAFX to solve 8-puzzle to goal state 012345678.
 
