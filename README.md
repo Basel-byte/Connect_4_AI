@@ -1,6 +1,6 @@
 # ***Connect-4 :space_invader:***
 
-- This project was generated with JAVAFX to solve 8-puzzle to goal state 012345678.
+- This project was generated with JAVAFX, playing Connect-4 with "the computer" or "two players."
 
 
 ## Authors:
